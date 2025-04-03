@@ -15,7 +15,7 @@ Restart terminal.
 #### Activate the environment:
 conda activate myenv
 
-Here, conda activate langchainenv
+Here, use => conda activate langchainenv
 
 #### Deactivate the environment:
 conda deactivate
